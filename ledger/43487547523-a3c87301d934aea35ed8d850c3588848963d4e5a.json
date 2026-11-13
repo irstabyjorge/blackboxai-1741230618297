@@ -1,0 +1,145 @@
+{
+  "commit": "a3c87301d934aea35ed8d850c3588848963d4e5a",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T10:57:12-08:00",
+      "sha": "a3c87301d934aea35ed8d850c3588848963d4e5a",
+      "subject": "Fix Python escape sequences in IP SHIELD workflow"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T10:53:21-08:00",
+      "sha": "ea18e5f3293b07dcc7e7e96b9756089c5430fee7",
+      "subject": "Document AEGIS IP SHIELD provenance workflow"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T10:53:02-08:00",
+      "sha": "d812fd245e98ef23df49fe63adc4768137256528",
+      "subject": "Add AEGIS IP SHIELD provenance workflow"
+    },
+    {
+      "author_email_sha256": "91719714052f6a4115d703e6daf013bf05ecdbea98bc9f3e48c30611f1be34a4",
+      "author_name_declared": "irstaxbyjorge",
+      "authored_at_declared": "2025-08-04T01:11:40-07:00",
+      "sha": "6573aabe3926d00513e76cb4f50e82b0ea1ff185",
+      "subject": "Initial commit"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "irstabyjorge",
+      "authored_at_declared": "2025-03-05T19:10:52-08:00",
+      "sha": "e107d86140d2373e3b3cf1ae93c0a8b4ed889f23",
+      "subject": "Add .snapshots/config.json 1741230659371"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "irstabyjorge",
+      "authored_at_declared": "2025-03-05T19:10:48-08:00",
+      "sha": "1bece140e35bea0c8fc760d862599b7cd075ec47",
+      "subject": "Add .snapshots/readme.md 1741230655358"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "irstabyjorge",
+      "authored_at_declared": "2025-03-05T19:10:43-08:00",
+      "sha": "9c1ed247e0a01d5c1175928ff787c0312b37cc4e",
+      "subject": "Add .snapshots/sponsors.md 1741230649602"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "irstabyjorge",
+      "authored_at_declared": "2025-03-05T19:10:38-08:00",
+      "sha": "a743fe97e616d8241df7dcc2b5865e699b99b035",
+      "subject": "Add .snapshots/snapshot-2025-03-06T02_19_35_709Z.md 1741230644842"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "irstabyjorge",
+      "authored_at_declared": "2025-03-05T19:10:29-08:00",
+      "sha": "135d3b72a570779c7070725b21e2c316e34532eb",
+      "subject": "Add .vscode/launch.json 1741230635577"
+    },
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "irstabyjorge",
+      "authored_at_declared": "2025-03-05T19:10:12-08:00",
+      "sha": "c1b53bcbbb076e05c01e3c8aafea73d7872261de",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 8,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "dfadca2772038ed1860ffa39ac9e64def484a55e",
+      "mode": "100644",
+      "path": ".snapshots/config.json",
+      "sha256": "062cb76690bb6fc4a32b799b36968458628854b650937e90d91e2163f43a76b7"
+    },
+    {
+      "git_blob_oid": "21fa917dbb716d32a10b71aa5f5ba72c33437429",
+      "mode": "100644",
+      "path": ".snapshots/readme.md",
+      "sha256": "0ab695ae4c6c2bae966a796fa9c1c29fce82c4381dc5ca6fad2cdf38f5f8af64"
+    },
+    {
+      "git_blob_oid": "9ae01fc7eab165f03c42ada3b0b872f309bc9de2",
+      "mode": "100644",
+      "path": ".snapshots/snapshot-2025-03-06T02_19_35_709Z.md",
+      "sha256": "e19405ed68a09f49dbcf0b9007897cb6df0e809b27ee0994a0e50cba641d373c"
+    },
+    {
+      "git_blob_oid": "2df337f43e06d69afd14a7d8471183a990cce5b6",
+      "mode": "100644",
+      "path": ".snapshots/sponsors.md",
+      "sha256": "b255d6d45f4f0f2476c5294f04a2f5681a7e9bf7259b4e3f1f0899f12759bbc3"
+    },
+    {
+      "git_blob_oid": "5c7247b40ad5ac8f6dd3e3ae09dacc1c9f116c93",
+      "mode": "100644",
+      "path": ".vscode/launch.json",
+      "sha256": "6e11474a220dbd8f071d59f01ac9e6545979722c3e671538873fa26e70cd7027"
+    },
+    {
+      "git_blob_oid": "4f32c4686a0d57af6f407b25f4792aa107a16db9",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "69a683b54c6651a733636525b1910dee45a36343ce0fddbd6a86e811b47eb9ed"
+    },
+    {
+      "git_blob_oid": "388bd0b368fe13fee2faf95bca71b77f4ec8d3ae",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "3ec29db7ad1cad94930399e26b32b7921e113253444c0e0c80bb0617e5504c1e"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:02:16.761722+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/aegis/ip-shield-bootstrap-2026-11-13",
+  "ref_name": "aegis/ip-shield-bootstrap-2026-11-13",
+  "repository": "irstabyjorge/blackboxai-1741230618297",
+  "tree": "6f6903555f38671acebf9b7566760fca544e04db",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43487547523"
+}
